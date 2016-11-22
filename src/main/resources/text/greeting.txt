@@ -1,0 +1,5 @@
+Hi there,
+I'm here to help you to get things done.
+I can show you a list of our top most popular "topic" (send 1),
+or you can ask me to create an "topic" (send 2).
+If this is not enough I can also add a new person to your "topic" (send 3).
